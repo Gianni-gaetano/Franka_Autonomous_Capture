@@ -1,0 +1,8 @@
+prefix=/home/iras0401/libfranka/catkin_ws/devel
+
+Name: fr3_moveit_config
+Description: Description of fr3_moveit_config
+Version: 0.8.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

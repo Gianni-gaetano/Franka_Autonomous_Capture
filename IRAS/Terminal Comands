@@ -1,0 +1,8 @@
+Terminal comands to prepare the robot for movement
+
+ ./LaunchRealControl 		#Control the robot in the real environment
+ 
+ roscore 			#Launching the Master node
+ 
+ conda activate ros_env	#Launching a ros environment
+

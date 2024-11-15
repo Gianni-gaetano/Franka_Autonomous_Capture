@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/iras0401/libfranka/catkin_ws/devel/setup.sh

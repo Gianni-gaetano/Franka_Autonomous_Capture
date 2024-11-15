@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/home/iras0401/libfranka/build/examples/joint_point_to_point_motion 192.168.1.11 0 -0.784219 0 -2.35602 0 1.57103 0.786879 1

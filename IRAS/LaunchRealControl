@@ -1,0 +1,8 @@
+#!/bin/bash
+source /opt/ros/noetic/setup.bash 
+source ~/libfranka/catkin_ws/devel/setup.bash
+
+
+roslaunch fr3_moveit_config franka_control.launch
+
+
